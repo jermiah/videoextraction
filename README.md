@@ -1,2 +1,2 @@
 # videoextraction
-Video Extraction using gemini
+Video Extraction using gemini - Google Workshop
